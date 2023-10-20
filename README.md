@@ -1,3 +1,3 @@
 
-<span style="font-size: 10px;">I'm new to web scraping, and I've used Python, with the requests and BeautifulSoup libraries, to extract data of PUBG from Liquipedia.</span>
+<span style="font-size: 10px;">In this project, I've used Python, with its libraries requests and BeautifulSoup, to extract data of PUBG from Liquipedia.</span>
 
