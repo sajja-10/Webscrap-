@@ -38,8 +38,6 @@ to_visit = set([BASE_URL + str(t) for t in to_visit])
 # Create a CSV file to store the data
 csv_file_name = 'players.csv'
 
-# Final result
-# ...
 
 # Final result
 def return_table_content(table):
